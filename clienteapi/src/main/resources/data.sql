@@ -1,0 +1,10 @@
+insert into tb_client (name, cpf, income,birth_Date,children) values ('Matheus Miranda','12345678912',1000.00,TIMESTAMP WITH TIME ZONE '1982-07-14T10:00:00Z',2);
+insert into tb_client (name, cpf, income,birth_Date,children) values ('Milena Carla Sales','84958120882',3000.00,TIMESTAMP WITH TIME ZONE '1986-06-19T10:00:00Z',0);
+insert into tb_client (name, cpf, income,birth_Date,children) values ('Rayssa Ayla Agatha Vieira','469878873',7000.00,TIMESTAMP WITH TIME ZONE '1998-08-03T10:00:00Z',1);
+insert into tb_client (name, cpf, income,birth_Date,children) values ('Raimunda Kamilly Ayla Gomes','14561088830',2530.00,TIMESTAMP WITH TIME ZONE '1999-09-24T10:00:00Z',0);
+insert into tb_client (name, cpf, income,birth_Date,children) values ('Rosângela Brenda Brito','60323223869',900.00,TIMESTAMP WITH TIME ZONE '2020-10-14T10:00:00Z',0);
+insert into tb_client (name, cpf, income,birth_Date,children) values ('Thales Bento Luan da Paz','42638030864',1030.00,TIMESTAMP WITH TIME ZONE '2020-04-06T10:00:00Z',3);
+insert into tb_client (name, cpf, income,birth_Date,children) values ('Luís Kauê Nogueira','27915063812',500.00,TIMESTAMP WITH TIME ZONE '1997-08-11T10:00:00Z',2);
+insert into tb_client (name, cpf, income,birth_Date,children) values ('Olivia Vera Eduarda Barbosa','135082566857',5000.00,TIMESTAMP WITH TIME ZONE '1997-01-24T10:00:00Z',3);
+insert into tb_client (name, cpf, income,birth_Date,children) values ('Elaine Sônia Teresinha da Silva','78489767858',2320.00,TIMESTAMP WITH TIME ZONE '1994-03-13T10:00:00Z',0);
+insert into tb_client (name, cpf, income,birth_Date,children) values ('Gabriela Renata Carvalho','03471688846',1050.00,TIMESTAMP WITH TIME ZONE '1993-07-14T10:00:00Z',2);
